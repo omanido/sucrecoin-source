@@ -1,0 +1,9 @@
+Building Sucrecoin
+
+See doc/readme-qt.rst for instructions on building Sucrecoin QT,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of Sucrecoin.
+
+See doc/build-*.txt for instructions on building sucrecoind,
+the intended-for-services, no-graphical-interface, reference
+implementation of Sucrecoin.
